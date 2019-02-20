@@ -1,0 +1,25 @@
+{
+  "name": "quick-and-dirty-temp-monitor",
+  "version": "1.0.0",
+  "description": "quick and dirty node-red system to monitor temperature",
+  "main": "index.js",
+  "dependencies": {
+    "node-dht-sensor": "0.0.34",
+    "node-red-contrib-dht-sensor": "^1.0.4",
+    "node-red-dashboard": "^2.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmacnish/quick-and-dirty-temperature-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmacnish/quick-and-dirty-temperature-monitor/issues"
+  },
+  "homepage": "https://github.com/danmacnish/quick-and-dirty-temperature-monitor#readme"
+}
